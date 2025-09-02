@@ -1,0 +1,9 @@
+# Dependências para executar o notebook localmente
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+scipy
+jupyter
