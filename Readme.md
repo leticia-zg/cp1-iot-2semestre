@@ -63,7 +63,6 @@ source .venv/bin/activate
 # .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
-> Alternativa: rode a **primeira célula** de instalação no notebook (`%pip install ...`) se preferir.
 
 ### 2) Executar o notebook
 ```bash
