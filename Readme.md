@@ -10,7 +10,7 @@
 ## 📌 Descrição do Projeto
 Este repositório contém a análise do dataset **Individual Household Electric Power Consumption (UCI)**, com:
 - **Partes 1–3 (Python/Notebook):** leitura, limpeza, EDA, séries temporais, autocorrelação, PCA, K-Means e regressões.
-- **Parte 4 (Orange):** fluxo visual com distribuições, correlações, clusters, PCA e (se aplicável) regressão.
+- **Parte 4 (Orange):** fluxo visual com distribuiçõs, correlações, clusters, PCA e (se aplicável) regressão.
 
 > Dataset (UCI): https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 
