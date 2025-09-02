@@ -22,8 +22,7 @@ Este repositório contém a análise do dataset **Individual Household Electric 
 ├─ README.md
 ├─ requirements.txt                 
 ├─ Trabalho_Consumo_Energia_vf.ipynb   
-└─ orange/
-   ├─ workflow.ows                                       
+└─ orange-evidencias                                         
 ```
 
 ---
