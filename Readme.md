@@ -23,10 +23,8 @@ Este repositório contém a análise do dataset **Individual Household Electric 
 ├─ requirements.txt                 
 ├─ Trabalho_Consumo_Energia_vf.ipynb   
 └─ orange/
-   ├─ workflow.ows                 
-   └─ prints/                      
+   ├─ workflow.ows                                       
 ```
-> Se o nome do seu notebook for outro, ajuste aqui ou renomeie para `Trabalho_Consumo_Energia_v5.ipynb`.
 
 ---
 
