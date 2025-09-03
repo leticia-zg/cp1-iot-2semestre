@@ -4,6 +4,7 @@
 - **Ana Carolina Reis Santana rm556219**
 - **Letícia Zago de Souza rm558464**
 - **Pedro Henrique Mendonça de Novais rm555276**
+- **Celina Alcântara do Carmo rm558090**
 
 ---
 
